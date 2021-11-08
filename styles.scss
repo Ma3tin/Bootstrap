@@ -1,0 +1,15 @@
+@import "node_modules/bootstrap/scss/bootstrap";
+
+$background: #DA621E;
+$color: #EBC944;
+.background {
+  background-color: $background;
+}
+
+.color {
+    color: $color;
+}
+
+.width {
+  width: 100vw;
+}
